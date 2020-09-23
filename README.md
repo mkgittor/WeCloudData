@@ -1,4 +1,3 @@
-# WeCloudData
 Multi-Class classification - Deep learning, NLP
 
 - Data provided by data.world for products from Amazon : https://data.world/promptcloud/fashion-products-on-amazon-com
