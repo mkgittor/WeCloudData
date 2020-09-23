@@ -1,7 +1,7 @@
 # Import File in Python
 import pandas as pd
 
-df = pd.read_csv(r'F:\Canada\Post_landing\Weclouddata\amazon_co_ecommerce_sample.csv')
+df = pd.read_csv(r'....\amazon_co_ecommerce_sample.csv')
 
 df.head(10) # displays first 10 rows
 df.shape[0] # displays number of rows
@@ -99,7 +99,7 @@ idx2word = {idx: word for (word, idx) in vectorizer.vocabulary_.items()}
 print(idx2word[3429])
 # cut
 print(product_names_train[0])
-# Die Cut Découpage Sheet - Christmas Glitter Princesses
+# Die Cut DÃ©coupage Sheet - Christmas Glitter Princesses
 
 # Shows the vocabulary used to assign weights by the TF-IDF
 
